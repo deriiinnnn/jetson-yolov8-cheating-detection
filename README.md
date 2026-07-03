@@ -112,7 +112,3 @@ ONNX INT8 menghasilkan peningkatan performa sekitar **10.545x lebih cepat** diba
 - Jika menjalankan di Jetson, sesuaikan path model jika project tidak berada di `/home/jetson/cheating/`.
 - Jika kamera tidak terbaca, pastikan IP camera/HP dan Jetson berada di jaringan Wi-Fi yang sama.
 - Untuk model yang lebih besar dari 100 MB, gunakan Git LFS agar bisa diunggah ke GitHub.
-
-## Author
-
-Bella Adisty
