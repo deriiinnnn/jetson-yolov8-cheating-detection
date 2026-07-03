@@ -1,0 +1,1 @@
+License belum ditentukan. Jika project ini hanya untuk tugas/kampus, boleh pilih "No license" atau jangan tambahkan license dulu. Jika ingin public dan orang lain boleh menggunakan kode, gunakan MIT License.
